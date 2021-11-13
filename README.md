@@ -5,4 +5,4 @@
 
 just make a pull request if you want to be a contributor 
 
-i really appreciate if you want to be a contributor and help me to this plugin
+i really appreciate if you want to help me with this plugin 
