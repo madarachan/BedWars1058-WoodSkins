@@ -4,4 +4,5 @@
 [![Proxy Stats](https://img.shields.io/bstats/players/12864?logo=minecraft&label=Players)](https://discord.gg/JyF42uRcMk)
 
 just make a pull request if you want to be a contributor 
+
 i really appreciate if you want to be a contributor and help me to this plugin
