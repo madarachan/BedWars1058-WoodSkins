@@ -31,12 +31,12 @@ public class CommandManager implements CommandExecutor {
             if (annotation != null) {
 
                 String base = annotation.command().split(" ")[0].substring(1);
-                PluginCommand basePluginCommand = plugin.getServer().getPluginCommand(base);
+                PluginCommand pluginCommand = plugin.getServer().getPluginCommand(base);
 
-                if (basePluginCommand == null)
-                    throw new RuntimeException(String.format("Unable to register command base '%s'. Did you put it in plugin.yml?", base));
+                if (pluginCommand == null)
+                    throw new RuntimeException(String.format("ERROR! can't register command '%s'", base));
                 else {
-                    basePluginCommand.setExecutor(this);
+                    pluginCommand.setExecutor(this);
                     registeredCommandTable.put(annotation.command().substring(1), new RegisteredCommand(method, object, annotation));
                 }
             }
