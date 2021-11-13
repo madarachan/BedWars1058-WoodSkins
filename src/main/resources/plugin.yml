@@ -1,0 +1,12 @@
+name: BedWars1058-WoodSkins
+version: 1.0
+author: JoseMarcellio
+description: WoodSkins for BedWars1058
+main: com.josemarcellio.woodskins.WoodSkins
+softdepend: [BedWars1058, Vault]
+load: POSTWORLD
+commands:
+  bedwarswoodskins:
+    aliases: [bwws]
+  bedwarswoodskinsadmin:
+    aliases: [bwwsa]

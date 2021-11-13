@@ -1,0 +1,192 @@
+GUI:
+  Name: '&8Wood Skins'
+  Size: 54
+OakPlank:
+  Name: '&aOak Plank'
+  Material: WOOD
+  Data: 0
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Oak Plank Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 2
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+SprucePlank:
+  Name: '&aSpruce Plank'
+  Material: WOOD
+  Data: 1
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Spruce Plank Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 3
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+BirchPlank:
+  Name: '&aBirch Plank'
+  Material: WOOD
+  Data: 2
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Birch Plank Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 4
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+JunglePlank:
+  Name: '&aJungle Plank'
+  Material: WOOD
+  Data: 3
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Jungle Plank Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 5
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+AcaciaPlank:
+  Name: '&aAcacia Plank'
+  Material: WOOD
+  Data: 4
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Acacia Plank Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 6
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+DarkOakPlank:
+  Name: '&aDark Oak Plank'
+  Material: WOOD
+  Data: 5
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Dark Oak Plank Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 7
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+OakLog:
+  Name: '&aOak Log'
+  Material: LOG
+  Data: 0
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Oak Log Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 8
+    Y: 2
+  Command: lp user %player% permission set %permission% true
+SpruceLog:
+  Name: '&aSpruce Log'
+  Material: LOG
+  Data: 1
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Spruce Log Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 2
+    Y: 3
+  Command: lp user %player% permission set %permission% true
+BirchLog:
+  Name: '&aBirch Log'
+  Material: LOG
+  Data: 2
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Birch Log Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 3
+    Y: 3
+  Command: lp user %player% permission set %permission% true
+JungleLog:
+  Name: '&aJungle Log'
+  Material: LOG
+  Data: 3
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Jungle Log Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 4
+    Y: 3
+  Command: lp user %player% permission set %permission% true
+AcaciaLog:
+  Name: '&aAcacia Log'
+  Material: LOG_2
+  Data: 0
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Acacia Log Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 5
+    Y: 3
+  Command: lp user %player% permission set %permission% true
+DarkOakLog:
+  Name: '&aDark Oak Log'
+  Material: LOG_2
+  Data: 1
+  Price: 10000
+  Lore: |-
+    &8Wood Skin
+
+    &7Select the Dark Oak Log Wood Skin
+    &7to be used when placing wood
+    &7blocks.
+  Location:
+    X: 6
+    Y: 3
+  Command: lp user %player% permission set %permission% true
+Close:
+  Name: '&cClose Menu'
+  Material: BARRIER
+  Data: 0
+  Lore: |-
+    &7Click to close
+  Location:
+    X: 5
+    Y: 6
